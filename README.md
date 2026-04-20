@@ -137,7 +137,7 @@ navella-ecommerce/
 ### 🛒 Cart Popup
 ![Cart](screenshots/cart_totalprice.png)
 
-### ✅ Checkout
+### ✅ Checkout Success
 ![Checkout](screenshots/order_successful_message.png)
 
 ---
