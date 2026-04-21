@@ -15,6 +15,8 @@ Navella is a full-stack e-commerce web application developed using **Spring Boot
 
 The application allows users to browse products, filter and search items, manage a shopping cart, and simulate an online shopping experience with dynamic UI interactions.
 
+This project combines both admin and user functionalities in a single interface. In real-world applications,these roles are typically separated where admin manages products and users perform purchases.
+
 ---
 
 ## 🔄 System Flow
@@ -146,7 +148,7 @@ navella-ecommerce/
 
 - Project uses REST APIs for frontend-backend communication  
 - MySQL database is used for persistent storage  
-- Cart functionality is handled using React state  
+- Cart functionality is handled using React state
 
 ---
 
